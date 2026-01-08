@@ -65,69 +65,69 @@ You can start multiple clients to simulate real-time chat between users.
 🔐 Advanced Features Roadmap
 1. Authentication
 
--User registration and login
+ -User registration and login
 
--Password hashing (bcrypt / hashlib)
+ -Password hashing (bcrypt / hashlib)
 
--Session handling
+ -Session handling
 
 2.Message History
 
--Store messages in SQLite or PostgreSQL
+ -Store messages in SQLite or PostgreSQL
 
--Fetch and display previous chats on login
+ -Fetch and display previous chats on login
 
 3. User Interface
 
--Desktop GUI using Tkinter / PyQt
+ -Desktop GUI using Tkinter / PyQt
 
-OR Web UI using Flask / Django + WebSockets
+ OR Web UI using Flask / Django + WebSockets
 
 4. Multimedia Sharing
 
 -File transfer via sockets
 
--Image preview support
+ -Image preview support
 
 5. Notifications
 
--Desktop notifications
-
--Sound alerts for new messages
+ -Desktop notifications
+ 
+ -Sound alerts for new messages
 
 6. Emoji Support
 
--Unicode emoji rendering
+ -Unicode emoji rendering
 
--Emoji picker (GUI version)
+ -Emoji picker (GUI version)
 
 7. Security
 
--End-to-end encryption (AES / RSA)
+ -End-to-end encryption (AES / RSA)
 
--Secure sockets (SSL/TLS)
+ -Secure sockets (SSL/TLS)
 
--Input validation & protection
+ -Input validation & protection
 
 🧪 Testing
 
--Test with multiple clients
+ -Test with multiple clients
 
--Simulate network failures
+ -Simulate network failures
 
--Validate authentication flows
+ -Validate authentication flows
 
 📈 Learning Outcomes
 
--By completing this project, you will learn:
+ -By completing this project, you will learn:
 
--Real-time communication fundamentals
+ -Real-time communication fundamentals
 
--Networking with sockets
+ -Networking with sockets
 
--Scalable client-server design
+ -Scalable client-server design
 
--Secure application development
+ -Secure application development
 
--UI design principles
+ -UI design principles
 
